@@ -1,3 +1,0 @@
-C:\Users\stepa\source\repos\FTest\FTest\x64\Debug\FTest.vcxproj.AssemblyReference.cache
-C:\Users\stepa\source\repos\FTest\FTest\x64\Debug\FTest.MyForm.resources
-C:\Users\stepa\source\repos\FTest\FTest\x64\Debug\FTest.vcxproj.GenerateResource.cache
